@@ -1,0 +1,28 @@
+project:
+  type: website
+  
+
+website:
+  title: "Fisiología"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Acerca
+      - href: clases.qmd
+        text: Clases
+      - href: material.qmd
+        text: Material de apoyo
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: cyborg
+    css: styles.css
+    toc: true
+
+lang: es
+
+
