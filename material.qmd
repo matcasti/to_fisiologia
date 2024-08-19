@@ -4,7 +4,7 @@ title: "Material de apoyo"
 
 ## Guias
 
-- Nada todavía
+- [Guía de laboratorio de fisiología neuronal](material/Guía de Laboratorio de Fisiología Neuronal.pdf)
 
 ## Sitios web
 
