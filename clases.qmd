@@ -5,3 +5,5 @@ title: "Clases"
 ## Presentaciones
 
 -  14/Agosto: [Fisiología Neuronal](clases/08-14_fisiologia-neuronal.pdf)
+-  21/Agosto: [Fisiología Neuromuscular (parte 1)](clases/08-21_fisiologia-neuromuscular-I.pdf)
+-  21/Agosto: [Fisiología Neuromuscular (parte 2)](clases/08-21_fisiologia-neuromuscular-II.pdf)
