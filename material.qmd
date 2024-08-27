@@ -5,6 +5,7 @@ title: "Material de apoyo"
 ## Guias
 
 - [Guía de laboratorio de fisiología neuronal](material/Guía de Laboratorio de Fisiología Neuronal.pdf)
+- [Guía de laboratorio de fisiología neuromuscular](material/Guía de Laboratorio de Fisiología Neuromuscular.pdf)
 
 ## Sitios web
 
