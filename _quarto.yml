@@ -25,4 +25,7 @@ format:
 
 lang: es
 
+resources: 
+  - clases/
+  - material/
 
