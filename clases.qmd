@@ -10,3 +10,4 @@ title: "Clases"
 -  28/Agosto: [Fisiología Neuronal (parte 2)](clases/08-28_fisiologia_neuronal_parte_II.pdf)
 -  12/Septiembre: [Anatomofisiología cardiovascular](clases/09-11_anatomofisiologia_cardiovascular.pdf)
 -  25/Septiembre: [Anatomofisiología respiratoria](clases/09-25_anatomofisiologia_respiratoria.pdf)
+-  10/Octubre: [Anatomía del sistema digestivo](clases/10-09_anatomia_del_sistema_digestivo.pdf)
