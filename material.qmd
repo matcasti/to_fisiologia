@@ -4,16 +4,17 @@ title: "Material de apoyo"
 
 ## Guias
 
-- [Guía de laboratorio de fisiología neuronal](material/Guía de Laboratorio de Fisiología Neuronal.pdf)
-- [Guía de laboratorio de fisiología neuromuscular parte 1](material/Guía de Laboratorio de Fisiología Neuromuscular (parte I).pdf)
-- [Guía de laboratorio de fisiología neuromuscular parte 2](material/Guía de Laboratorio de Fisiología Neuromuscular (parte II).pdf)
-- [Guía de laboratorio de fisiología cardiovascular](material/Guía de Laboratorio de Fisiología Cardiovacular.pdf)
-- [Guía de Laboratorio de fisiología respiratoria](material/Guía de Laboratorio de Fisiología Respiratoria.pdf)
-- [Guía de laboratorio de fisiología digestiva](material/Guía de Laboratorio de Fisiología Digestiva.pdf)
+- [Guía de laboratorio de fisiología neuronal](material/guia-de-laboratorio-de-fisiologia-neuronal.pdf)
+- [Guía de laboratorio de fisiología neuromuscular parte 1](materialguia-de-laboratorio-de-fisiologia-neuromuscular-parte-I.pdff)
+- [Guía de laboratorio de fisiología neuromuscular parte 2](material/guia-de-laboratorio-de-fisiologia-neuromuscular-parte-II.pdf)
+- [Guía de laboratorio de fisiología cardiovascular](material/guia-de-laboratorio-de-fisiologia-cardiovacular.pdf)
+- [Guía de Laboratorio de fisiología respiratoria](material/guia-de-laboratorio-de-fisiologia-respiratoria.pdf)
+- [Guía de laboratorio de fisiología digestiva](material/guia-de-laboratorio-de-fisiologia-digestiva.pdf)
+- [Guía de estudio de fisiología digestiva](material/guia-de-estudio-de-fisiologia-digestiva.pdf)
 
 ## Cuestionarios
 
-- [Temas y preguntas Fisiología Respiratoria](material/Temas y preguntas Fisiología Respiratoria.pdf)
+- [Temas y preguntas Fisiología Respiratoria](material/temas-y-preguntas-fisiologia-respiratoria.pdf)
 
 ## Sitios web
 

@@ -11,3 +11,4 @@ title: "Clases"
 -  12/Septiembre: [Anatomofisiología cardiovascular](clases/09-11_anatomofisiologia_cardiovascular.pdf)
 -  25/Septiembre: [Anatomofisiología respiratoria](clases/09-25_anatomofisiologia_respiratoria.pdf)
 -  10/Octubre: [Anatomía del sistema digestivo](clases/10-09_anatomia_del_sistema_digestivo.pdf)
+-  16/Octubre: [Quizz de Fisiología del sistema digestivo](clases/10-09_anatomia_del_sistema_digestivo.pdf)
