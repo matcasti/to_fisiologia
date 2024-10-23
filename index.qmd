@@ -7,6 +7,24 @@ subtitle: "Universidad de Magallanes - Terapia Ocupacional"
 
 Queridos estudiantes, bienvenidos. Este espacio es donde podrán encontrar material vinculado con el segmento de Fisiología de la asignatura *Bases Científicas del ser Humano II*, impartido para la carrera de Terapia Ocupacional de la Universidad de Magallanes para el año 2024.
 
+## Fechas importantes
+
+A continuación te dejo algunas fechas para que te mantengas organizado/a respecto de las próximas evaluaciones:
+
+:::{.panel-tabset}
+### Teoría
+
+-  30/Octubre: **Prueba Nº2 de Anatomofisiología**. Fisiología y Anatomía del sistema respiratorio, cardiovascular y digestivo.
+-  04/Diciembre: **Prueba Nº3 de Anatomofisiología**. Fisiología y Anatomía del sistema endocrino, renal y reproductor.
+
+### Laboratorio
+
+-  28/Octubre: **Control del sistema digestivo**. Fisiología y Anatomía del sistema digestivo. Nota acumulativa.
+-  11/Noviembre: **Control del sistema endocrino**. Fisiología y Anatomía del sistema endocrino. Nota acumulativa.
+-  25/Noviembre: **Control de anatomofisiología renal**. Fisiología y Anatomía del riñon. Nota acumulativa.
+-  09/Noviembre: **Presentación de temas**. Asignación de temas en fisiología humana. Nota acumulativa.
+:::
+
 ::: {.callout-note}
 ## Sobre este sitio
 
