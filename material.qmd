@@ -14,7 +14,7 @@ title: "Material de apoyo"
 
 ## Cuestionarios
 
-- [Temas y preguntas Fisiología Respiratoria](material/temas-y-preguntas-fisiologia-respiratoria.pdf)
+- [Temas y preguntas Fisiología Cardiovascular](material/temas-y-preguntas-fisiologia-cardiovascular.pdf)
 
 ## Sitios web
 

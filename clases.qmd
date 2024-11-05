@@ -12,3 +12,4 @@ title: "Clases"
 -  25/Septiembre: [Anatomofisiología respiratoria](clases/09-25_anatomofisiologia_respiratoria.pdf)
 -  10/Octubre: [Anatomía del sistema digestivo](clases/10-09_anatomia_del_sistema_digestivo.pdf)
 -  16/Octubre: [Quizz de Fisiología del sistema digestivo](clases/10-16_fisiologia-del-sistema-digestivo.pdf)
+-  06/Noviembre: [Anatomofisiología del sistema endocrino](clases/11-06_fisiologia_del_sistema_endocrino.pdf)
