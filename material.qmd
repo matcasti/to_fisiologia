@@ -8,9 +8,10 @@ title: "Material de apoyo"
 - [Guía de laboratorio de fisiología neuromuscular parte 1](materialguia-de-laboratorio-de-fisiologia-neuromuscular-parte-I.pdff)
 - [Guía de laboratorio de fisiología neuromuscular parte 2](material/guia-de-laboratorio-de-fisiologia-neuromuscular-parte-II.pdf)
 - [Guía de laboratorio de fisiología cardiovascular](material/guia-de-laboratorio-de-fisiologia-cardiovacular.pdf)
-- [Guía de Laboratorio de fisiología respiratoria](material/guia-de-laboratorio-de-fisiologia-respiratoria.pdf)
+- [Guía de laboratorio de fisiología respiratoria](material/guia-de-laboratorio-de-fisiologia-respiratoria.pdf)
 - [Guía de laboratorio de fisiología digestiva](material/guia-de-laboratorio-de-fisiologia-digestiva.pdf)
 - [Guía de estudio de fisiología digestiva](material/guia-de-estudio-de-fisiologia-digestiva.pdf)
+- [Guía de laboratorio de fisiología endocrina](material/guia-de-laboratorio-de-endocrino.pdf)
 
 ## Cuestionarios
 
