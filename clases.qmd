@@ -13,3 +13,4 @@ title: "Clases"
 -  10/Octubre: [Anatomía del sistema digestivo](clases/10-09_anatomia_del_sistema_digestivo.pdf)
 -  16/Octubre: [Quizz de Fisiología del sistema digestivo](clases/10-16_fisiologia-del-sistema-digestivo.pdf)
 -  06/Noviembre: [Anatomofisiología del sistema endocrino](clases/11-06_fisiologia_del_sistema_endocrino.pdf)
+-  13/Noviembre: [Anatomofisiología del sistema renal](clases/11-12_fisiologia_del_sistema_renal.pdf)
